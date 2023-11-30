@@ -1,0 +1,33 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "bsp_led.h": "c",
+        "stdint.h": "c",
+        "stdio.h": "c",
+        "stm32f4xx_hal.h": "c",
+        "stm32f4xx.h": "c",
+        "stm32f417xx.h": "c",
+        "stm32f407xx.h": "c",
+        "bsp_usart.h": "c",
+        "rtos_task.h": "c",
+        "freertos.h": "c",
+        "portable.h": "c",
+        "hardware.h": "c",
+        "bsp_init.h": "c",
+        "clock_init.h": "c",
+        "freertosconfig.h": "c",
+        "bsp_lcd.h": "c",
+        "bsp_delay.h": "c",
+        "bsp_tim7.h": "c",
+        "lv_hal_tick.h": "c",
+        "lv_port_disp.h": "c",
+        "lv_demo.h": "c",
+        "lv_demo_benchmark.h": "c",
+        "lv_demo_stress.h": "c",
+        "bsp_i2c.h": "c",
+        "string.h": "c",
+        "lv_port_indev.h": "c",
+        "lvgl.h": "c"
+    },
+    "svn.ignoreMissingSvnWarning": true
+}
